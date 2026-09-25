@@ -17,8 +17,17 @@ My personal space for projects, experiments, and things I'm working on.
 
 A self-service digital wedding invitation platform where anyone can create, customize, and share their own digital invitation.
 
+<p>
+  <img height="56" alt="Invitasiku icon" src="./assets/icon-invitasiku-transparent-square.png" />
+  <img height="56" alt="Invitasiku logo" src="./assets/logo-title-invitasiku-transparent.png" />
+</p>
+
 👉 [invitasiku.id](https://invitasiku.id)
 
 A simple AI-powered crossword game. Pick up a puzzle and play directly in your browser.
+
+<p>
+  <img height="56" alt="Terka" src="./assets/terka-og-image.png" />
+</p>
 
 👉 [playterka.vercel.app](https://playterka.vercel.app)
