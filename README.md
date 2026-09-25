@@ -10,24 +10,33 @@
 
 Checkout my side and personal project :
 
+### 🧪 Personal Space
+
 My personal space for projects, experiments, and things I'm working on.
 
 👉 [irfankamil.vercel.app](https://irfankamil.vercel.app)
 
+---
 
-A self-service digital wedding invitation platform where anyone can create, customize, and share their own digital invitation.
+### 💌 Invitasiku
 
 <p>
   <img height="56" alt="Invitasiku icon" src="./assets/icon-invitasiku-transparent-square.png" />
   <img height="56" alt="Invitasiku logo" src="./assets/logo-title-invitasiku-transparent.png" />
 </p>
 
+A self-service digital wedding invitation platform where anyone can create, customize, and share their own digital invitation.
+
 👉 [invitasiku.id](https://invitasiku.id)
 
-A simple AI-powered crossword game. Pick up a puzzle and play directly in your browser.
+---
+
+### 🧩 Terka
 
 <p>
   <img height="56" alt="Terka" src="./assets/terka-og-image.png" />
 </p>
+
+A simple AI-powered crossword game. Pick up a puzzle and play directly in your browser.
 
 👉 [playterka.vercel.app](https://playterka.vercel.app)
